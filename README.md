@@ -8,7 +8,7 @@ This tutorial details my activities, how I acted, and what I read. All of the li
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-<img alt="visub"  src="">
+<img alt="visub"  src="srcs/meme.png">
 
 VirtualBox - 8.04.6 LTS (Bionic Beaver), Containers:
 ---------------------------------------------------------------------------------------------------------------------------------
