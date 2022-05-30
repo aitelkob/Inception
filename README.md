@@ -8,9 +8,9 @@ This tutorial details my activities, how I acted, and what I read. All of the li
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-<img alt="visub"  src="https://user-images.githubusercontent.com/78852244/126368155-d1450b9c-82f4-41b4-a41d-28ebe119f6b6.png">
+<img alt="visub"  src="">
 
-Реализация VirtualBox - Ubuntu 20.04, Containers - debian:buster:
+VirtualBox - 8.04.6 LTS (Bionic Beaver), Containers:
 ---------------------------------------------------------------------------------------------------------------------------------
 1. <a href="https://losst.ru/kak-polzovatsya-virtualbox#2_%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8 %D0%B5_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0 %BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B">Creating an Ubuntu virtual machine.</a>
 2. <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-en">Install Docker.</a >
@@ -46,11 +46,4 @@ This tutorial details my activities, how I acted, and what I read. All of the li
 &emsp; 10.3. Set up <a href="https://www.php.net/manual/ru/install.fpm.configuration.php">www.conf</a> and link to ngixn: /etc/php/x.x/fpm/ pool.d<br>
 &emsp; 10.4. <a href="https://codex.wordpress.org/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0% B0_WordPress#Using_the_MySQL_Client) - wp-config (https://techlist.top/ustanovka-wordpress-odnoj-knopkoj/">Install wordpress: /etc/php/x.x/fpm/pool.d</a> <br>
 &emsp; 10.5. <a href="https://linux.die.net/man/8/php-fpm">Running.</a>
----------------------------------------------------------------------------------------------------------------------------------
-Actual Status : finished.
-Result : 100%
-
-This is my inception project from the 42 cursus, need help or
-you need to translate this article into English write to me.
-Contacts here: https://github.com/SavchenkoDV.
 
