@@ -12,7 +12,7 @@ This tutorial details my activities, how I acted, and what I read. All of the li
 
 VirtualBox - 8.04.6 LTS (Bionic Beaver), Containers:
 ---------------------------------------------------------------------------------------------------------------------------------
-1. <a href="https://losst.ru/kak-polzovatsya-virtualbox#2_%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8 %D0%B5_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0 %BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B">Creating an Ubuntu virtual machine.</a>
+1. Creating an Ubuntu virtual machine.</a>
 2. <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-en">Install Docker.</a >
 3. <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-en">Install Docker-Compose .</a>
 4. Install VIM, MAKE, GIT and other programs, plugins necessary for work.
